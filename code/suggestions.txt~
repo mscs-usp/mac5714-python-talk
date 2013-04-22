@@ -1,0 +1,28 @@
+- The talk has 54 slides, too much for 50 min.
+50 min / 40 slides = 75 seg/slide, since some of them would be jokes or separators, should it be ~45 slides?
+We should reserve the last 10min for Q&A or for over timing.
+
+    Part 1: About Python (16 slides, 4 light-slides)
+Introduction to the language
+    Part 2: Thinking Pythonic (12 slides, 2/3 light-slides)
+Diving into Python unique features
+    Part 3: Import coolstuff (11 slides, 2/3 light-slides)
+More about community and Python's ecosystem
+    Part 4: Interactive (5 slides, 1 light-slide)
+A bit of Python's awesomeness
+
+- Slides 7..8, could be merged?
+- Slides 9..10, exchange the order? (so python is successful for both slides)
+- Slides 11, remove? ('different' could be used against us), we didn't talk about decorators either (last item)
+- Slides 14..15, Changed title to: for loop [in C / in Python], in order to not be confused with iterators
+- Slides 16..17, explain that further details on list comprehensions will be given later
+- Slides 29..30, could be merged?
+- Slides 31..32, could be merged?
+- Slides 35..37, could be merged?
+- Slides 38..41, could be merged? (one, two?, perhaps a live example?)
+- Slides 43..45, could be merged? (two?, slide 44 will be a live example?)
+- Slides 49..50 (should we talk about Kivi?)
+
+TODO: Organize live examples with numbers and reference them on the presentation
+TODO: Check if fonts used are the same accross the whole presentation
+TODO: Check for highlighting 
