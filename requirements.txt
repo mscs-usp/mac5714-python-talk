@@ -8,4 +8,5 @@ ipython
 numpy
 mathplotlib
 ipdb
+pudb
 # Run: pip install -r requirements.txt
