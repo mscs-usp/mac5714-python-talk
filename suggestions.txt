@@ -23,12 +23,12 @@ Part 2:
 
 Part 3:
 - Slides PyPI, could be merged into one or two with a live example?
-- Slides import coolstuf, live example?
+- Slides import coolstuf, two slides? live example?
 
 - Slides 38..41, could be merged? (one, two?, perhaps a live example?)
 - Slides 43..45, could be merged? (two?, slide 44 will be a live example?)
 - Slides 49..50 (should we talk about Kivi?)
 
 TODO: Organize live examples with numbers and reference them on the presentation
-TODO: Check if fonts used are the same accross the whole presentation
+TODO: Check if fonts (color / size) used are the same accross the whole presentation
 TODO: Check for highlighting 
