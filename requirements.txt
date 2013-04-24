@@ -1,0 +1,12 @@
+# pip
+# virtualenv (recommended)
+# virtualenvwrapper (recommended)
+#   source virtualenvwrapper.sh
+#   mkvirtualenv talk
+#-e git+http://github.com/poo2013pos/python-talk.git
+ipython
+numpy
+mathplotlib
+ipdb
+pudb
+# Run: pip install -r requirements.txt

@@ -1,3 +1,4 @@
+# Example 1: Using the yield statement
 def fibonacci(max_value):
     a, b = 0, 1
     while a < max_value:
@@ -9,8 +10,3 @@ f.next()
 
 for n in fibonacci(1000):
     print n
-    
----
-
-G = (sum(row) for row in M)
-map(sum, M)
