@@ -4,7 +4,7 @@ CFLAGS=-I.
 ODIR=obj
 DESTDIR=bin
 
-_OBJ = 01.iteration.o
+_OBJ = iteration.o
 OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
 $(ODIR)/%.o: %.c
