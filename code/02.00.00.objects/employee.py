@@ -1,4 +1,4 @@
-class Employee:
+class Employee(object):
     """
     a general employee: data+logic
     """
@@ -23,8 +23,8 @@ class Manager(Employee):
     """
 
     def __init__(self, name, pay):
-        Employee.__init__(self, name, pay, 'manager')
+        super(Manager, self).__init__(name, pay, 'manager')
 
     def giveRaise(self, percent, bonus=0.1):
-        Employee.giveRaise(self, percent + bonus)
+        super(Manager, self).giveRaise(percent + bonus)
 

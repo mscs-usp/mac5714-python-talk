@@ -12,9 +12,9 @@ def new_deck():
     rs = []
     rank = "A 2 3 4 5 6 7 8 9 T J Q K".split()
     # First way to debug
-    import pdb; pdb.set_trace()
+    #import pdb; pdb.set_trace()
     # Second way to debug
-    #import ipdb; ipdb.set_trace()
+    import ipdb; ipdb.set_trace()
     # Third way to debug
     #import pudb; pudb.set_trace()
     suit = "C D H S".split()
